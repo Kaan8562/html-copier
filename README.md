@@ -1,2 +1,5 @@
 # html-copier
-Requests ve BeautifulSoup modüllerini kullanarak yaptığım web sitelerinin html kodlarını kaydetmeye yarayan araç.
+Gerekli modüller: requests ve BeautifulSoup
+İndirmek için:
+# pip install requests
+# pip install BeautifulSoup
