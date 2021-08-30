@@ -1,5 +1,4 @@
-## html-copier
-Gerekli modüller: requests ve BeautifulSoup
-İndirmek için:
- pip install requests
- pip install BeautifulSoup
+# html-copier
+Modülleri indirmek için:
+#### pip install requests
+#### pip install BeautifulSoup
